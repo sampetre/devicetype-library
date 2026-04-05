@@ -1,0 +1,34 @@
+---
+manufacturer: TP-Link
+model: TL-SG2008
+slug: tp-link-sg2008
+u_height: 1
+is_full_depth: false
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+interfaces:
+  - name: Ethernet 1
+    type: 1000base-t
+    label: '1'
+  - name: Ethernet 2
+    type: 1000base-t
+    label: '2'
+  - name: Ethernet 3
+    type: 1000base-t
+    label: '3'
+  - name: Ethernet 4
+    type: 1000base-t
+    label: '4'
+  - name: Ethernet 5
+    type: 1000base-t
+    label: '5'
+  - name: Ethernet 6
+    type: 1000base-t
+    label: '6'
+  - name: Ethernet 7
+    type: 1000base-t
+    label: '7'
+  - name: Ethernet 8
+    type: 1000base-t
+    label: '8'

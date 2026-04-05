@@ -1,38 +1,43 @@
 ---
 manufacturer: TP-Link
-model: TL-SG108PE
-slug: tp-link-tl-sg108pe
-part_number: TL-SG108PE
-comments: '[TP-Link TL-SG108PE](https://www.tp-link.com/us/business-networking/easy-smart-switch/tl-sg108pe/)'
+model: TL-SG2008P
+slug: tp-link-sg2008p
+u_height: 1
 is_full_depth: false
-u_height: 0
-airflow: passive
 power-ports:
-  - name: External Power Adapter
+  - name: PS1
     type: dc-terminal
-    maximum_draw: 75
+    maximum_draw: 62
 interfaces:
-  - name: Port 1
+  - name: Ethernet 1
     type: 1000base-t
+    label: '1'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 2
+  - name: Ethernet 2
     type: 1000base-t
+    label: '2'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 3
+  - name: Ethernet 3
     type: 1000base-t
+    label: '3'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 4
+  - name: Ethernet 4
     type: 1000base-t
+    label: '4'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 5
+  - name: Ethernet 5
     type: 1000base-t
-  - name: Port 6
+    label: '5'
+  - name: Ethernet 6
     type: 1000base-t
-  - name: Port 7
+    label: '6'
+  - name: Ethernet 7
     type: 1000base-t
-  - name: Port 8
+    label: '7'
+  - name: Ethernet 8
     type: 1000base-t
+    label: '8'

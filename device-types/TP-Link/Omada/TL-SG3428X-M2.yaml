@@ -1,0 +1,98 @@
+---
+manufacturer: TP-Link
+model: TL-SG3428X-M2
+slug: tp-link-sg3428x-m2
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+interfaces:
+  - name: Ethernet 1
+    type: 2.5gbase-t
+    label: '1'
+  - name: Ethernet 2
+    type: 2.5gbase-t
+    label: '2'
+  - name: Ethernet 3
+    type: 2.5gbase-t
+    label: '3'
+  - name: Ethernet 4
+    type: 2.5gbase-t
+    label: '4'
+  - name: Ethernet 5
+    type: 2.5gbase-t
+    label: '5'
+  - name: Ethernet 6
+    type: 2.5gbase-t
+    label: '6'
+  - name: Ethernet 7
+    type: 2.5gbase-t
+    label: '7'
+  - name: Ethernet 8
+    type: 2.5gbase-t
+    label: '8'
+  - name: Ethernet 9
+    type: 2.5gbase-t
+    label: '9'
+  - name: Ethernet 10
+    type: 2.5gbase-t
+    label: '10'
+  - name: Ethernet 11
+    type: 2.5gbase-t
+    label: '11'
+  - name: Ethernet 12
+    type: 2.5gbase-t
+    label: '12'
+  - name: Ethernet 13
+    type: 2.5gbase-t
+    label: '13'
+  - name: Ethernet 14
+    type: 2.5gbase-t
+    label: '14'
+  - name: Ethernet 15
+    type: 2.5gbase-t
+    label: '15'
+  - name: Ethernet 16
+    type: 2.5gbase-t
+    label: '16'
+  - name: Ethernet 17
+    type: 2.5gbase-t
+    label: '17'
+  - name: Ethernet 18
+    type: 2.5gbase-t
+    label: '18'
+  - name: Ethernet 19
+    type: 2.5gbase-t
+    label: '19'
+  - name: Ethernet 20
+    type: 2.5gbase-t
+    label: '20'
+  - name: Ethernet 21
+    type: 2.5gbase-t
+    label: '21'
+  - name: Ethernet 22
+    type: 2.5gbase-t
+    label: '22'
+  - name: Ethernet 23
+    type: 2.5gbase-t
+    label: '23'
+  - name: Ethernet 24
+    type: 2.5gbase-t
+    label: '24'
+  - name: Ethernet 25
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 1'
+  - name: Ethernet 26
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 2'
+  - name: Ethernet 27
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 3'
+  - name: Ethernet 28
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 4'
+

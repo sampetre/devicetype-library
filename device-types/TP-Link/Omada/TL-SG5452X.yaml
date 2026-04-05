@@ -1,0 +1,169 @@
+---
+manufacturer: TP-Link
+model: TL-SG5452X
+slug: tp-link-sg5452x
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+interfaces:
+  - name: Ethernet 1
+    type: 1000base-t
+    label: '1'
+  - name: Ethernet 2
+    type: 1000base-t
+    label: '2'
+  - name: Ethernet 3
+    type: 1000base-t
+    label: '3'
+  - name: Ethernet 4
+    type: 1000base-t
+    label: '4'
+  - name: Ethernet 5
+    type: 1000base-t
+    label: '5'
+  - name: Ethernet 6
+    type: 1000base-t
+    label: '6'
+  - name: Ethernet 7
+    type: 1000base-t
+    label: '7'
+  - name: Ethernet 8
+    type: 1000base-t
+    label: '8'
+  - name: Ethernet 9
+    type: 1000base-t
+    label: '9'
+  - name: Ethernet 10
+    type: 1000base-t
+    label: '10'
+  - name: Ethernet 11
+    type: 1000base-t
+    label: '11'
+  - name: Ethernet 12
+    type: 1000base-t
+    label: '12'
+  - name: Ethernet 13
+    type: 1000base-t
+    label: '13'
+  - name: Ethernet 14
+    type: 1000base-t
+    label: '14'
+  - name: Ethernet 15
+    type: 1000base-t
+    label: '15'
+  - name: Ethernet 16
+    type: 1000base-t
+    label: '16'
+  - name: Ethernet 17
+    type: 1000base-t
+    label: '17'
+  - name: Ethernet 18
+    type: 1000base-t
+    label: '18'
+  - name: Ethernet 19
+    type: 1000base-t
+    label: '19'
+  - name: Ethernet 20
+    type: 1000base-t
+    label: '20'
+  - name: Ethernet 21
+    type: 1000base-t
+    label: '21'
+  - name: Ethernet 22
+    type: 1000base-t
+    label: '22'
+  - name: Ethernet 23
+    type: 1000base-t
+    label: '23'
+  - name: Ethernet 24
+    type: 1000base-t
+    label: '24'
+  - name: Ethernet 25
+    type: 1000base-t
+    label: '25'
+  - name: Ethernet 26
+    type: 1000base-t
+    label: '26'
+  - name: Ethernet 27
+    type: 1000base-t
+    label: '27'
+  - name: Ethernet 28
+    type: 1000base-t
+    label: '28'
+  - name: Ethernet 29
+    type: 1000base-t
+    label: '29'
+  - name: Ethernet 30
+    type: 1000base-t
+    label: '30'
+  - name: Ethernet 31
+    type: 1000base-t
+    label: '31'
+  - name: Ethernet 32
+    type: 1000base-t
+    label: '32'
+  - name: Ethernet 33
+    type: 1000base-t
+    label: '33'
+  - name: Ethernet 34
+    type: 1000base-t
+    label: '34'
+  - name: Ethernet 35
+    type: 1000base-t
+    label: '35'
+  - name: Ethernet 36
+    type: 1000base-t
+    label: '36'
+  - name: Ethernet 37
+    type: 1000base-t
+    label: '37'
+  - name: Ethernet 38
+    type: 1000base-t
+    label: '38'
+  - name: Ethernet 39
+    type: 1000base-t
+    label: '39'
+  - name: Ethernet 40
+    type: 1000base-t
+    label: '40'
+  - name: Ethernet 41
+    type: 1000base-t
+    label: '41'
+  - name: Ethernet 42
+    type: 1000base-t
+    label: '42'
+  - name: Ethernet 43
+    type: 1000base-t
+    label: '43'
+  - name: Ethernet 44
+    type: 1000base-t
+    label: '44'
+  - name: Ethernet 45
+    type: 1000base-t
+    label: '45'
+  - name: Ethernet 46
+    type: 1000base-t
+    label: '46'
+  - name: Ethernet 47
+    type: 1000base-t
+    label: '47'
+  - name: Ethernet 48
+    type: 1000base-t
+    label: '48'
+  - name: Ethernet 49
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 1'
+  - name: Ethernet 50
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 2'
+  - name: Ethernet 51
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 3'
+  - name: Ethernet 52
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 4'

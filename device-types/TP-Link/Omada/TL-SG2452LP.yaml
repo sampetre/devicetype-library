@@ -1,0 +1,231 @@
+---
+manufacturer: TP-Link
+model: TL-SG2452LP
+slug: tp-link-sg2452lp
+u_height: 1
+is_full_depth: false
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 230
+interfaces:
+  - name: Ethernet 1
+    type: 1000base-t
+    label: '1'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 2
+    type: 1000base-t
+    label: '2'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 3
+    type: 1000base-t
+    label: '3'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 4
+    type: 1000base-t
+    label: '4'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 5
+    type: 1000base-t
+    label: '5'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 6
+    type: 1000base-t
+    label: '6'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 7
+    type: 1000base-t
+    label: '7'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 8
+    type: 1000base-t
+    label: '8'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 9
+    type: 1000base-t
+    label: '9'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 10
+    type: 1000base-t
+    label: '10'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 11
+    type: 1000base-t
+    label: '11'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 12
+    type: 1000base-t
+    label: '12'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 13
+    type: 1000base-t
+    label: '13'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 14
+    type: 1000base-t
+    label: '14'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 15
+    type: 1000base-t
+    label: '15'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 16
+    type: 1000base-t
+    label: '16'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 17
+    type: 1000base-t
+    label: '17'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 18
+    type: 1000base-t
+    label: '18'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 19
+    type: 1000base-t
+    label: '19'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 20
+    type: 1000base-t
+    label: '20'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 21
+    type: 1000base-t
+    label: '21'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 22
+    type: 1000base-t
+    label: '22'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 23
+    type: 1000base-t
+    label: '23'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 24
+    type: 1000base-t
+    label: '24'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 25
+    type: 1000base-t
+    label: '25'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 26
+    type: 1000base-t
+    label: '26'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 27
+    type: 1000base-t
+    label: '27'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 28
+    type: 1000base-t
+    label: '28'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 29
+    type: 1000base-t
+    label: '29'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 30
+    type: 1000base-t
+    label: '30'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 31
+    type: 1000base-t
+    label: '31'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 32
+    type: 1000base-t
+    label: '32'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 33
+    type: 1000base-t
+    label: '33'
+  - name: Ethernet 34
+    type: 1000base-t
+    label: '34'
+  - name: Ethernet 35
+    type: 1000base-t
+    label: '35'
+  - name: Ethernet 36
+    type: 1000base-t
+    label: '36'
+  - name: Ethernet 37
+    type: 1000base-t
+    label: '37'
+  - name: Ethernet 38
+    type: 1000base-t
+    label: '38'
+  - name: Ethernet 39
+    type: 1000base-t
+    label: '39'
+  - name: Ethernet 40
+    type: 1000base-t
+    label: '40'
+  - name: Ethernet 41
+    type: 1000base-t
+    label: '41'
+  - name: Ethernet 42
+    type: 1000base-t
+    label: '42'
+  - name: Ethernet 43
+    type: 1000base-t
+    label: '43'
+  - name: Ethernet 44
+    type: 1000base-t
+    label: '44'
+  - name: Ethernet 45
+    type: 1000base-t
+    label: '45'
+  - name: Ethernet 46
+    type: 1000base-t
+    label: '46'
+  - name: Ethernet 47
+    type: 1000base-t
+    label: '47'
+  - name: Ethernet 48
+    type: 1000base-t
+    label: '48'
+  - name: Ethernet 49
+    type: 1000base-x-sfp
+    label: 'SFP 1'
+  - name: Ethernet 50
+    type: 1000base-x-sfp
+    label: 'SFP 2'
+  - name: Ethernet 51
+    type: 1000base-x-sfp
+    label: 'SFP 3'
+  - name: Ethernet 52
+    type: 1000base-x-sfp
+    label: 'SFP 4'

@@ -1,0 +1,61 @@
+---
+manufacturer: TP-Link
+model: TL-SG3210XHP-M2
+slug: tp-link-sg3210xhp-m2
+u_height: 1
+is_full_depth: false
+console-ports:
+  - name: Console
+    type: rj-45
+power-ports:
+  - name: PS1
+    type: iec-60320-c14
+    maximum_draw: 240
+interfaces:
+  - name: Ethernet 1
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '1'
+  - name: Ethernet 2
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '2'
+  - name: Ethernet 3
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '3'
+  - name: Ethernet 4
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '4'
+  - name: Ethernet 5
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '5'
+  - name: Ethernet 6
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '6'
+  - name: Ethernet 7
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '7'
+  - name: Ethernet 8
+    type: 2.5gbase-t
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+    label: '8'
+  - name: Ethernet 9
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 1'
+  - name: Ethernet 10
+    type: 10gbase-x-sfpp
+    label: 'SFP+ 2'
+

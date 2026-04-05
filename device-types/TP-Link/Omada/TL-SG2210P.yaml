@@ -1,46 +1,57 @@
 ---
 manufacturer: TP-Link
-model: TL-SG1008MP
-slug: tp-link-tl-sg1008mp
-part_number: TL-SG1008MP
-comments: '[TP-Link TL-SG1008MP](https://www.tp-link.com/en/business-networking/soho-switch-poe/tl-sg1008mp/#specifications)'
-is_full_depth: false
+model: TL-SG2210P
+slug: tp-link-sg2210p
 u_height: 1
-airflow: right-to-left
+is_full_depth: false
 power-ports:
   - name: PS1
-    type: iec-60320-c14
-    maximum_draw: 173
+    type: dc-terminal
+    maximum_draw: 61
 interfaces:
-  - name: Port 1
+  - name: Ethernet 1
     type: 1000base-t
+    label: '1'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 2
+  - name: Ethernet 2
     type: 1000base-t
+    label: '2'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 3
+  - name: Ethernet 3
     type: 1000base-t
+    label: '3'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 4
+  - name: Ethernet 4
     type: 1000base-t
+    label: '4'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 5
+  - name: Ethernet 5
     type: 1000base-t
+    label: '5'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 6
+  - name: Ethernet 6
     type: 1000base-t
+    label: '6'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 7
+  - name: Ethernet 7
     type: 1000base-t
+    label: '7'
     poe_mode: pse
     poe_type: type2-ieee802.3at
-  - name: Port 8
+  - name: Ethernet 8
     type: 1000base-t
+    label: '8'
     poe_mode: pse
     poe_type: type2-ieee802.3at
+  - name: Ethernet 9
+    type: 1000base-x-sfp
+    label: 'SFP 1'
+  - name: Ethernet 10
+    type: 1000base-x-sfp
+    label: 'SFP 2'

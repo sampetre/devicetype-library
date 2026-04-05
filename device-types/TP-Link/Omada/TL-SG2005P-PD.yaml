@@ -1,0 +1,32 @@
+---
+manufacturer: TP-Link
+model: TL-SG2005P-PD
+slug: tp-link-sg2005p-pd
+u_height: 1
+is_full_depth: false
+interfaces:
+  - name: Ethernet 1
+    type: 1000base-t
+    label: '1'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 2
+    type: 1000base-t
+    label: '2'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 3
+    type: 1000base-t
+    label: '3'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 4
+    type: 1000base-t
+    label: '4'
+    poe_mode: pse
+    poe_type: type2-ieee802.3at
+  - name: Ethernet 5
+    type: 1000base-t
+    label: '5'
+    poe_mode: pd
+    poe_type: type4-ieee802.3bt
